@@ -1,2 +1,4 @@
 def saludo():
     print("hola como estas")
+def despedida():
+    print("chao,cuidate")
