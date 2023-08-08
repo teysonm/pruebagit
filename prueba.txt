@@ -1,2 +1,4 @@
-hola gente
-como estan
+def saludo():
+    print("hola como estas")
+def despedida():
+    print("chao,cuidate")
